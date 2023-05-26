@@ -22,3 +22,6 @@ on labels.
 
 ### KPI Dashboard
 ![alt text](https://github.com/asifsamy/KPI-Dashboard-of-Call_Center_Data_2022/blob/master/images/KPIDashboard.jpg "Logo Title Text 1")
+
+### Explore it Online
+[https://public.tableau.com/app/profile/s.m.asif.al.samy/viz/KPIDashboard-CallCenter/KPIDashboard](https://public.tableau.com/app/profile/s.m.asif.al.samy/viz/KPIDashboard-CallCenter/KPIDashboard)
